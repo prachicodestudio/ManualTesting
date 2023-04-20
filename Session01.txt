@@ -1,0 +1,79 @@
+
+							MANUAL TESTING
+						    ---------------------
+					    Software Testing Concepts - Session #01
+				          ------------------------------------------
+
+What is Software
+---------------- 
+Software is collection of programs to help us to perform a task.
+
+Types of Software
+-----------------
+Application software
+System Software
+Programming software
+
+What is Software Testing
+-------------------------
+Software testing is a part of software development process where  product is verified and validated to ensure 
+
+1) software or application is bug-free
+2) meets the customer requirement
+3) timely delivery within budget
+4) Maintainable product
+
+Why Software Testing is important?
+-----------------------------------
+Cost-Effective 
+Security
+Product quality 
+Customer Satisfaction
+
+Error, Bug/Defect & Failure
+----------------------------
+Reasons of Software Bugs
+
+1) Lack of communication between stakeholders, development and testing team.
+2) Frequent change in requirement/ unclear requirement 
+3) Software complexity
+4) Programming error/source code error
+5) Unskilled testing team
+6) Time Pressure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

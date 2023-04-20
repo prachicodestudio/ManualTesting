@@ -1,0 +1,63 @@
+
+							MANUAL TESTING
+						    ---------------------
+					    Software Testing Concepts - Session #03
+				          ------------------------------------------
+
+Difference Between Technical Review , Walkthrough & Inspection
+--------------------------------------------------------------
+
+Participants of Review Process:
+
+The Moderator :  Leads the review process. His role is to determinse the type of review, scheduling meeting, distribute documents to other particpants.
+
+The Author: He is writer of the "document under review" . His job is to understand improvement.
+
+The Scribber/writter/recorder: He is responsible to record each defect found and any suggestions given in the meeting for process improvement.
+
+The Reviewer: to check defects and further improvement.
+
+Technical Review : It is lead by trained moderator and technical reviewers will read the document before meeting for better understanding and to suggest improvement to author. 
+Conducted on these documents to ensure correctness and completeness of documents.
+
+Requirement review
+Design review
+Code review
+Test plan 
+test case
+
+Walkthrough :
+
+It is a informal review. In this author reads the document or code and discuss with the peers so that they note out the defects ans suggestions. It is not preplanned and it can be done whenever it is required.
+
+Inspection :
+
+It is most formal review type, in which an author requests the services of a moderator, scribe, reviewers in a formal meeting. The moderator books the room, sends out the material. The reviewers read the material before the meeting. During the meeting, the reviewers take turns reading the work artifact out loud. The scribe takes notes of issues the reviewers discovered in advance and during the meeting. A formal follow-up is carried out by the moderator after inspection.
+
+Quality Assurance (QA) Vs Quality Control (QC)
+----------------------------------------------
+
+SDLC Phases
+
+Requirement Analysis & Gathering Phase
+Design
+Coding
+Testing
+Deployment
+Maintenance
+
+
+Quality Assurance involves in process-oriented activities. It ensures the prevention of defects in the process used to make Software Applications. So the defects don’t arise when the Software Application is being developed.
+
+QA aims to prevent defects. QA is responsibe for full SDLC life cycle.
+
+Quality Control involves in product-oriented activities. It executes the program or code to identify the defects in the Software Application.
+
+QC Aims to identify and fix defects. QC is responsible for software testing.
+
+
+QE - Quality Engineers
+
+
+
+

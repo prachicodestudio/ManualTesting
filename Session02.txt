@@ -1,0 +1,182 @@
+
+							MANUAL TESTING
+						    ---------------------
+					    Software Testing Concepts - Session #02
+				          ------------------------------------------
+
+What is Software Development Life Cycle (SDLC) or Application Development Life Cycle
+------------------------------------------------------------------------------------
+
+The software development life cycle (SDLC) is a process used in software development to plan, write, and modify software.
+SDLC is a systematic process for building software that ensures the quality and correctness of the software built.
+It Provides a framework for a standard set of activities and deliverables.
+
+
+Phases of SDLC
+--------------
+
+1) Requirement Gathering & Analysis
+2) Design
+3) Development/implementation / coding
+4) Testing
+5) Deployement
+6) Maintenance
+
+SDLC Models
+----------- 
+1) Waterfall model
+2) Spiral Model
+3) V-Model
+
+Waterfall model
+----------------
+Waterfall model illustrates the software development process in a linear sequential flow. This means that any phase in the development begins only if the previous phase is complete. Therefore, phases donot overlap.
+
+Advantage
+---------
+a) simple & easy to understand
+b) Each phase has specific deliverable and review process which makes it easy to manage.
+c) Works well with smaller projects where requirements are very well understood.
+d) Clearly defined stages 
+e) Result of each phases are well documented.
+
+
+DisAdv
+------
+Cannot accommodate changing requirements. Thefore , not suitable for project where there is risk of requirement change.
+It is not good for complex projects
+
+No working software is produced until late during the life cycle. Testing will start only after coding is complete.
+There is high amount of risk and uncertainity.
+
+If there is defect in requirement phase it will be continued in the later phases also.
+
+Spiral Model
+-------------
+
+Spiral Model is Iterative in nature and It is also called Version Control Model.
+It allows incremental releases of the product or incremental refinement through each iteration around the spiral.
+It overcomes limitation/drawback of waterfall model.
+It is best suited for large project or where there is dependency in modules.
+
+Advantages
+-------------
+It allows requirement changes
+Suitable for large and complicated projects
+The development can be distributed into smaller parts.
+It allows better risk analysis
+Cost effective due to good risk management
+
+Disadvantages
+-------------
+Not suitable for small projects
+The success of the project depends on the risk analysis phase
+There is no testing in requirement and design phase.
+
+V-Model/ Verification and Validation Model(V&V Model)
+------------------------------------------------------
+
+Static Testing - Testing project related document is called static testing.
+-------------
+Review
+Inspection
+Walkthrough
+
+Dynamic Testing
+---------------
+Whitebox testing
+Functional Testing
+Integration Testing
+System Testing 
+User Acceptance Testing
+
+
+Verification
+--------------
+Verification is to check whether we are building the right product or not.
+Verification in Software Testing is a process of checking documents, design in order to check if the software has been built according to the requirements or not. 
+The verification process involves activities like reviews, walk-throughs and inspection.  Static testing is performed in Verification.
+
+
+Validation in Software Engineering is a dynamic mechanism of testing and validating if the software product actually meets the exact needs of the customer or not. 
+Validation mean checking whether the software product is right or not.
+Dynamic testing is performed for validation.
+
+
+Advantages:
+--------------
+Testing starts in early stages of product development.
+
+Test team will be ready with the test cases by the time developers release the software which in turns saves a lot of time
+
+Testing is involved in every stage of product development.
+
+Less or no rework.
+
+
+Disadvantages:
+----------------
+Initial investment is more because test team & development team involves right from the early stage.
+
+Whenever there is change in requirement, the same procedure continues. It leads more documentation work.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why SDLC
+--------
+Here, are prime reasons why SDLC is important for developing a software system.
+
+It offers a basis for project planning, scheduling, and estimating
+Provides a framework for a standard set of activities and deliverables
+It is a mechanism for project tracking and control
+Increases visibility of project planning to all involved stakeholders of the development process
+Increased and enhance development speed
+Improved client relations
+Helps you to decrease project risk and project management plan overhead
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
