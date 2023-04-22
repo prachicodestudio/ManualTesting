@@ -1,0 +1,73 @@
+
+							MANUAL TESTING
+						    ---------------------
+					    Software Testing Concepts - Session #05
+				          ------------------------------------------
+System Testing
+--------------
+
+System testing is 3rd level of testing which focuses on verifying the system as a whole meets specified requirement.
+This is performed after Integration testing and before User Acceptance testing.
+It is performed by the testing team independent of development team.
+It is black box testing.
+This testing is performed in testing environment parallel to production environment.
+
+System Testing Process
+----------------------
+
+Test environment setup
+Test plan creation
+Test case preparation
+test data preparation
+Test case execution
+Defect report preparation
+Retest & Regression testing
+signoff
+
+Types of system testing
+-----------------------
+
+1) Graphical User Interface (GUI) Testing
+2) Functional Testing
+3) Usability testing
+4) Non - functional testing
+
+GUI testing
+-----------
+GUI testing is software testing type that checks the Graphical user Interface of the Software to ensure the functionalities of the software works as per requirement specification.
+
+Checklist for GUI Test
+----------------------
+Check for - 
+
+1.	All the GUI elements for size, position, width, length, and acceptance of characters or numbers. 
+2.	Error Messages & Warning message are displayed correctly
+3.	For Clear demarcation of different sections on screen
+4.	Font used in an application is readable
+5.	Alignment of the text is proper
+6.	Color of the font and warning messages is aesthetically pleasing
+7.	Images have good clarity and they are properly aligned
+8.	Positioning of GUI elements for different screen resolution.
+9.	Execution of the required functionality of the application using the GUI
+10. 	Test the color of the hyperlink
+11. 	check for spelling
+12. 	Test the scrollbar according to the size of the page.
+13.   	Test the headings whether it is properly aligned or not.
+
+Usability Testing Or User Experience Testing (UX Testing)
+---------------------------------------------------------
+ In Usability Testing, we check the application for user friendliness, efficiency and accuracy."
+
+Easy to understand
+Easy to access
+Look and feel
+Faster to Access
+Effective Navigation
+Good Error Handling
+
+Context Sensetive Help : Online help or application embedded help for improve user experience.
+
+
+
+
+
