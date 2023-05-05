@@ -1,0 +1,50 @@
+
+							MANUAL TESTING
+						    ---------------------
+					    Software Testing Concepts - Session #06
+				          ------------------------------------------
+Functional Testing
+------------------
+
+Functional Testing is a type of Software Testing whereby the system is tested against the functional requirements.  
+Functions/features are tested by providing appropriate input and examining the output. The actual results are then compared with expected results. 
+Functional testing ensures that the requirements are properly satisfied by the application.
+
+Testers follow the following steps:
+
+verification/Analysis of the requirement specification in the software application.
+Create Test Plan
+Design the test case.
+Make traceability matrix is to trace the requirement with its corresponding test scenarios and test cases.
+Execute the test case design
+Analysis of the coverage to examine the covered testing area of the application.
+	Finding the area of a requirement not implemented by a set of test cases
+	Helps to create additional test cases to increase coverage
+	Identifying meaningless test cases that do not increase coverage
+Defect management should do to manage defect resolving.
+
+1) Database Testing
+
+Database Testing is used to validate the functional requirements of a database from the end-user’s perspective. 
+The main goal of functional database testing is to test whether the transactions and operations performed by the end-users which are related to the database works as expected or not.
+
+
+SQL (Structure Query Language) : It is a programming used to define and manipulate the databse.
+
+DDL (Data Definition Language)
+DML (Data Manipulation Language) - Insert, Delete , Query , Update
+
+
+Database testing involves checking : 
+
+Schema / Mapping Testing
+Stored Procedures and Views Testing
+Trigger Testing
+Tables and Column testing
+Database Server Check
+
+Calculation Testing
+Error Handling Testing
+Verify HyderLinks in case of Web application testing
+Cookie Testing
+Session Testing

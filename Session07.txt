@@ -1,0 +1,76 @@
+
+							MANUAL TESTING
+						    ---------------------
+					    Software Testing Concepts - Session #07
+				          ------------------------------------------
+Non Functional Testing
+----------------------
+
+Non-functional testing verifies the attributes of the system/software such as performance, load, stress, scalability, security, compatibility, etc., Also it focuses on improving the user experience on how fast the system responds to a request.
+It checks the attributes such as memory leaks, performance, or robustness of the system.
+It covers all the areas that are not covered in functional testing. 
+
+It is performed once the functional testing is complete.
+This is Black box testing technique as it doesnot require knowledge of the internal system i.e it doesnot require knowledge of the code for the tester.
+
+Non-Functional Testing Types
+-----------------------------
+
+Performance Testing:
+
+Evaluate the overall performance / speed of the system. It validates that the system mees the expected response time.
+
+	Load Testing: Slowly/gradually increase the load on the application/system and check the response time / speed of the 		       application.
+
+	Stress Testing: Sudden increase the load on the application/system and check the response time /speed of the 		        application.
+
+	Volume testing: We evaluate how much data application is able to handle or we can it evaluates the behavior of the 	                application when large amount of data is passed.
+
+Security Testing: Evaluates how secure is our application , to ensure there is no loophole in the application leads to thread or data loss.
+
+This includes testing of authentication and authorization.
+
+authentication - who you are
+authorization/access - what you can do
+
+Recovery Testing: Checks that application terminates gracefully in case of failure and data is recovered.
+
+Compatibility Testing: We check whether the application is compatible with difference environment like web browser, hardware platform, databases, operating system, newtoworks , different version , configuration etc... In this we ensure that application works without any issue in different environment.
+
+Forward Compatibility : check the behavior and compatibility of the hardware or software with newer version.
+
+Backward compatibility :This testing is performed to check the behaviour and compatibility of the hardware or software with their older versions.
+
+Instability Testing: checks if the software installs and uninstalls correctly.
+
+Sanitation Testing/Garbage Testing .During this testing tester are finding extra functionality in build w. r. to Customer requirement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
