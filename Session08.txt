@@ -1,0 +1,52 @@
+
+							MANUAL TESTING
+						    ---------------------
+					    Software Testing Concepts - Session #08
+				          ------------------------------------------
+Regression Testing
+------------------
+
+It is used to authenticate a code change in the software does not impact the existing functionality of the product. Regression testing is making sure that the product works fine with new functionality, bug fixes, or any change in the existing feature.
+
+Types of Regression Testing
+
+1) Unit Regression : testing only the changed feature is called the Unit Regression Testing.
+
+2) Partial/Regional Regression: test the modification along with the impact area or regions .  To find the impacted areas , impact analysis meeting is conducted and impact list is prepared.
+
+3) Complete Regression : Test the modification along with the remaining areas.
+
+
+Re-Testing
+-----------
+Re-testing Testing means testing the functionality or bug again to ensure that bug is fixed. If not fixed, defects need not be re-opened. If fixed, the defect closed. This is to ensure that the bugs of previous build is fixed or not.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
