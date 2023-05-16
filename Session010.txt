@@ -1,0 +1,31 @@
+
+							MANUAL TESTING
+						    ---------------------
+					    Software Testing Concepts - Session #10
+				          ------------------------------------------
+Adhoc Testing
+-------------
+It is a informal testing process. It is performed after formal testing.
+There is no documentation.
+There is no test design
+There is not test cases.
+There is not requirement spec.
+Mostly negative test scenarios are tested with a aim to break the system.
+In this we check application without any sequence or procedure randomly and find some issues.
+The effectiveness of adhoc testing depends upon the capability of the tester and tester in depth knowledge about the system.
+It helps to simulate unusual behavior and hard-find and hard to reproduce bugs/defects.
+
+Exploratory Testing
+-------------------
+ In this testing, first application under test is explored, flow of application is understood , then test case is designed and test cases are executed. 
+This testing is performed when requirement is missing.
+This is also informal testing process.
+It involves test design and control and notes are taken
+progress is also tracked.
+It helps to study the product and agument the document and also research the bug.
+
+Monkey Testing
+--------------
+This test is also random in nature, therefore test cases are not used in monkey testing.
+Monkey testing can be performed by an individual who does not have a good knowledge of the application.
+Tester test randomly by clicking on random objects and entering the random and invalid data to check is the application give an error or not.

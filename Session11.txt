@@ -1,0 +1,23 @@
+
+							MANUAL TESTING
+						    ---------------------
+					    Software Testing Concepts - Session #11
+				          ------------------------------------------
+
+Positive Testing
+----------------
+In positive testing, tester always checks application with valid set of input.
+Tester checks whether an application behaves as exptected with the positive input.
+
+Negative Testing
+----------------
+tester checks an application with invalid set of input.
+checks whether an application behaves as exptected with the negative input.
+This is to test the application that does not do anything that it is not suppose to do.
+
+End To End Testing (E2E Testing)
+--------------------------------
+In E2E testing, tester checks the flow of application from start to end.
+
+In E2E testing, tester create an environment identical to the one that will be used by real users. Then tester tests all actions that user might perform on the application.
+
