@@ -1,0 +1,95 @@
+
+							MANUAL TESTING
+						    ---------------------
+					    Software Testing Concepts - Session #16
+				           -----------------------------------------
+
+Software Development Life Cycle (SDLC)
+
+Phases of SDLC
+--------------
+
+1) Requirement Gathering & Analysis
+2) Design
+3) Development/implementation / coding
+4) Testing
+5) Deployement
+6) Maintenance
+
+Software Testing Life Cycle (STLC)
+----------------------------------
+
+Phases of STLC
+
+1) Requirement Analysis
+2) Test Planning
+3) Test Design
+4) Test Execution
+5) Defect Reporting & Tracking
+6) Closure/ Sign Off
+
+Sample Defect Report Template
+----------------------------------
+1) Defect ID: Unique No or Name
+
+2) Description: Summary of the defect
+
+3) Feature: Module / Function / Service, in these module TE found the defect
+
+4) Test Case Name: Corresponding failing test condition
+
+5) Reproducible (Yes / No): Yes -> Every time defect appears during test execution
+No -> Rarely defect appears
+
+6) If Yes, attach the test procedure:
+
+7) If No, attach snapshot & strong reasons:
+  
+8) Status: New / Reopen
+
+9) Severity: Seriousness of defect w.r.t functionality (high / medium / low)
+
+10) Priority: Importance of the defect w.r.t customers (high / medium / low)
+
+11) Reported bug: Name of Test Engineer
+
+12) Reported on: Date of submission
+
+13) Assign to: Name of the responsible person in development team -> PM
+
+14) Build Version ID: In which build, Test Engineer fount the defect
+
+15) Suggested fix (Optional): Tester tries to produce a suggestion to solve this defect
+
+16) Fixed by: PM or Team Lead
+
+17) Resolved by: Developer name
+
+18) Resolved on: Date of solving By Developers
+
+19) Resolution type: check out in next page
+
+20) Approved by: Signature of Project Manager (PM)
+
+Defect Age: The time gap between “reported on” & “resolved on”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,61 @@
+
+							MANUAL TESTING
+						    ---------------------
+					    Software Testing Concepts - Session #12
+				          ------------------------------------------
+
+Test Design Techniques
+-----------------------
+Help you design better test cases. It helps to prepare test data.
+
+Reduce the test data
+Reduce the number of test cases
+Increasing test coverage i.e to cover each and every area of the feature
+
+
+Types Of Test Case Design Technique
+------------------------------------
+Equivalence Class Partitioning (ECP)
+Boundary Value Analysis (BVA)
+Decision Table 
+State Transition
+Error Guessing
+
+Equivalence Class Partitioning (ECP)
+------------------------------------
+We divide the test conditions in classes or groups and from each group we check only one condition assuming all the conditions in the group work in the same manner. It reduces no. of test data and saves time.
+
+Example 1: we have to test a field which accepts age 18-35
+
+Valid Age Input is 18 to 35
+
+--- to 17(invalid) - 16
+18 to 35 (valid) - 25
+
+36 to --- (invalid)-55
+
+Example 2: we have to test a field which accepts mobile number of 10 digit
+
+Equivalance partition
+----------------------
+less than 10 digit (invalid): 98715431
+10 digit (valid): 		9868543124
+more than 10 digit (invalid):986854312498
+
+
+Boundary Value Analysis (BVA)
+------------------------------
+
+We check the boundaries of the input.
+
+Example 1: we have to test a field which accepts age 18-35
+
+min=1	8 (valid)
+min-1=	17(invalid)
+min+1=	19(valid)
+
+max	= 35(Valid)
+max +1	= 36(invalid)
+max-1	= 34 (valid)	
+
+ECP & BVA techniques are used in input domain testing

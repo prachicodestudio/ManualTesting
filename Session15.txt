@@ -1,0 +1,49 @@
+
+							MANUAL TESTING
+						    ---------------------
+					    Software Testing Concepts - Session #15
+				           -----------------------------------------
+
+Error Guessing Technique
+-------------------------
+
+Error guessing is a software testing technique in which the tester uses  their experience of prior testing & intuition to guess the types of errors that might occur in a system, and then tests for those specific errors.
+
+
+It is not a replacement for formal testing methods and should not be relied upon as the sole testing approach.
+
+The error guessing is best used to supplement other testing techniques and methods to identify defects that may have been missed by other approaches. 
+
+
+
+Example
+---------
+Suppose a tester is testing a web application that allows users to create and manage accounts. 
+The tester might use error guessing to identify potential errors that could occur during the account creation process.
+
+Based on their experience with similar systems, the tester might guess that the following errors could occur:
+
+Invalid email address format:
+------------------------------
+The system may not properly validate email addresses, allowing users to enter invalid formats that could cause problems later on.
+Enter an invalid email address format (e.g., missing the “@” symbol) and attempt to create an account. Verify that the system displays an error message and does not allow the account to be created.
+
+Password too weak-
+----------------------
+The system may not enforce password complexity requirements, allowing users to create weak passwords that could easily guessed or hacked.
+
+Create an account with a weak password (e.g., “password” or “123456”). Verify that the system displays an error message and does not allow the account create.
+
+Duplicate usernames-
+-------------------------
+The system may not properly check for duplicate usernames, allowing users to create multiple accounts with the same username.
+
+Attempt to create multiple accounts with the same username. Verify that the system displays an error message and does not allow the duplicate account create.
+
+
+User profile not properly saved-
+--------------------------------
+The system may not properly save user profile information, causing user data lost or corrupted. 
+
+Create a user profile and verify that the information properly saved and can access later.
+
