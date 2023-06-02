@@ -1,0 +1,52 @@
+ 
+							MANUAL TESTING
+						    ---------------------
+					    Software Testing Concepts - Session #17
+				           -----------------------------------------
+
+
+Test Plan
+----------
+
+Test plan is like a blue print of how the testing activity is going to take place in the project.
+ 
+
+Test Plan Template 
+------------------
+1) Introduction
+2) Scope
+3) Test Strategy (Approach)
+4) Test Environment
+5) Staffing and Training Needs
+6) Test Schedule and Estimation
+7) Test Deliverables
+	Test deliverable before testing phase - test plan doc, test case doc, test design spec
+	Test deliverable during testing	- test script, simulators,test data, error logs & execution logs
+	Test deliveables after testing the testing cycle is over - Test report, Defect report, Release note..
+
+8) Exit Criteria
+9) Suspension and Resumption Criteria
+10) Responsibilities
+11) Risk and Contingencies
+12) Assumptions
+13) Review and Approvals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
